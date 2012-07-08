@@ -3,7 +3,6 @@ package com.github.tarhashi.lucene.sample
 import org.apache.lucene.analysis.TokenFilter
 import org.apache.lucene.analysis.TokenStream
 import scala.collection.mutable.ArrayBuffer
-import javax.swing.plaf.basic.BasicFormattedTextFieldUI
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute
 import org.apache.lucene.analysis.ja.tokenattributes.ReadingAttribute
 
